@@ -1,0 +1,7 @@
+[0.013s] Invoking command in '/home/sam/learning/src/build/my_package': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake /home/sam/learning/src/my_package -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sam/learning/src/install/my_package
+[0.021s] [31mCMake Error at CMakeLists.txt:28:
+[0.021s]   Parse error.  Expected a command name, got right paren with text ")".
+[0.021s] 
+[0.021s] [0m
+[0.021s] -- Configuring incomplete, errors occurred!
+[0.023s] Invoked command in '/home/sam/learning/src/build/my_package' returned '1': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake /home/sam/learning/src/my_package -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sam/learning/src/install/my_package
